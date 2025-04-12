@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Database
+*.sqlite3
+*.db
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+
+# Environment
+.env
+.env/
+
+# Static files (if collected)
+staticfiles/
+media/
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Pip
+pip-selfcheck.json
